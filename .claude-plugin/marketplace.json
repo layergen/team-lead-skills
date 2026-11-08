@@ -1,0 +1,12 @@
+{
+  "name": "team-lead-skills",
+  "owner": { "name": "Eodly", "url": "https://eodly.io" },
+  "metadata": { "description": "Free Claude skills for people who run a team." },
+  "plugins": [
+    {
+      "name": "team-lead",
+      "source": "./",
+      "description": "Five Claude skills for people who run a team, written from what git, GitHub and Linear recorded."
+    }
+  ]
+}

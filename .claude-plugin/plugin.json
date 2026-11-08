@@ -1,0 +1,10 @@
+{
+  "name": "team-lead",
+  "description": "Five Claude skills for people who run a team: the standup, what slipped, the weekly update, 1:1 prep and the investor update, written from what git, GitHub and Linear recorded. Never ranks people, never invents a number, never sends anything.",
+  "version": "1.0.0",
+  "author": { "name": "Eodly", "url": "https://eodly.io" },
+  "homepage": "https://github.com/layergen/team-lead-skills",
+  "repository": "https://github.com/layergen/team-lead-skills",
+  "license": "MIT",
+  "keywords": ["standup", "team", "manager", "weekly-update", "one-on-one", "investor-update", "github", "linear"]
+}
